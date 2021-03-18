@@ -1,4 +1,4 @@
-# bitaddress.org
+# a fork of pointbiz/bitaddress.org
 JavaScript Client-Side Bitcoin Wallet Generator
 
 Now Bitcoin addresses and their corresponding private key can be conveniently 
@@ -14,7 +14,7 @@ Here is a link to the BitcoinTalk.org forum topic discussing this project:
 https://bitcointalk.org/index.php?topic=43496.0
 
 
-Please send DONATIONS for this project to Bitcoin Address: 
+bitaddress.org's BTC DONATIONS address: 
 1NiNja1bUmhSoTXozBRBEtR8LeF9TGbZBN
 
 
